@@ -1,0 +1,21 @@
+{
+    "name": "jsymfony-config",
+    "description": "JSymfony config component",
+    "version": "0.0.1",
+    "author": "Vasily Khayrulin <sirianru@gmail.com>",
+    "keywords": ["jsymfony", "config", "component"],
+    "dependencies": {
+        "lodash": "*",
+        "jsymfony-base": "*"
+    },
+    "engines": {
+        "node": ">= 0.8.16"
+    },
+    "bugs": {
+        "url": "https://github.com/jsymfony/config/issues/new"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jsymfony/config.git"
+    }
+}
